@@ -1,0 +1,3 @@
+SELECT Benchmark_Name__c,Duration_Milliseconds__c,Record_Count__c FROM Benchmark_Result__c
+
+SELECT FIELDS(ALL) FROM Benchmark_Result__c LIMIT 200

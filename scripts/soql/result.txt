@@ -1,0 +1,12 @@
+BENCHMARK_NAME__C                           TIMES_RUN  DURATION_AVERAGE
+──────────────────────────────────────────  ─────────  ──────────────────
+Process Builder No Criteria On Insert       15         413.93333333333334
+After Save Flow On Insert                   15         385.2
+Multiple Flow Single Criteria Field Update  15         287.8
+Before Delete Flow Insert Child Records     15         162.73333333333332
+Single Flow Multi Criteria Field Update     15         104
+Before Delete Trigger Insert Child Records  15         101.86666666666666
+Before Save Flow On Insert                  15         76.33333333333333
+Trigger Update Field On Insert              15         54.46666666666667
+Workflow Update Field On Insert             15         47.4
+Total number of records retrieved: 9.
